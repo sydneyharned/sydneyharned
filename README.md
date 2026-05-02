@@ -19,8 +19,8 @@ Currently open to industry roles in genomics, bioinformatics, and computational 
 
 | Repo | What it is |
 |------|-----------|
-| [`flounder-ddrad-popgen`](.) | ddRAD-seq population structure pipeline for southern flounder across NC & TX estuaries (Stacks, PLINK, hierfstat, ADMIXTURE) |
-| [`hammerhead-population-genetics`](.) | Microsatellite + mtDNA population genetics and parentage analysis for critically endangered scalloped hammerhead sharks across the Eastern Tropical Pacific |
+| [`flounder-ddrad-popgen`](https://github.com/sydneyharned/flounder-ddrad-popgen) | ddRAD-seq population structure pipeline for southern flounder across NC & TX estuaries (Stacks, PLINK, hierfstat, ADMIXTURE) |
+| [`hammerhead-population-genetics`](https://github.com/sydneyharned/hammerhead-population-genetics) | Microsatellite + mtDNA population genetics and parentage analysis for critically endangered scalloped hammerhead sharks across the Eastern Tropical Pacific |
 
 ---
 
